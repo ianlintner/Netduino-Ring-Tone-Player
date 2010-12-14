@@ -1,0 +1,56 @@
+C:\Users\Standard\AppData\Local\Temporary Projects\NetduinoSound\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Standard\AppData\Local\Temporary Projects\NetduinoSound\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Standard\AppData\Local\Temporary Projects\NetduinoSound\bin\Debug\le\NetduinoSound.exe
+C:\Users\Standard\AppData\Local\Temporary Projects\NetduinoSound\bin\Debug\be\NetduinoSound.exe
+C:\Users\Standard\AppData\Local\Temporary Projects\NetduinoSound\bin\Debug\le\NetduinoSound.pdb
+C:\Users\Standard\AppData\Local\Temporary Projects\NetduinoSound\bin\Debug\be\NetduinoSound.pdb
+C:\Users\Standard\AppData\Local\Temporary Projects\NetduinoSound\bin\Debug\NetduinoSound.exe
+C:\Users\Standard\AppData\Local\Temporary Projects\NetduinoSound\bin\Debug\NetduinoSound.pdb
+C:\Users\Standard\AppData\Local\Temporary Projects\NetduinoSound\bin\Debug\le\NetduinoSound.pe
+C:\Users\Standard\AppData\Local\Temporary Projects\NetduinoSound\bin\Debug\le\NetduinoSound.pdbx
+C:\Users\Standard\AppData\Local\Temporary Projects\NetduinoSound\bin\Debug\be\NetduinoSound.pe
+C:\Users\Standard\AppData\Local\Temporary Projects\NetduinoSound\bin\Debug\be\NetduinoSound.pdbx
+C:\Users\Standard\AppData\Local\Temporary Projects\NetduinoSound\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Standard\AppData\Local\Temporary Projects\NetduinoSound\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Standard\AppData\Local\Temporary Projects\NetduinoSound\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Standard\AppData\Local\Temporary Projects\NetduinoSound\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Standard\AppData\Local\Temporary Projects\NetduinoSound\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Standard\AppData\Local\Temporary Projects\NetduinoSound\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Standard\AppData\Local\Temporary Projects\NetduinoSound\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Standard\AppData\Local\Temporary Projects\NetduinoSound\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Standard\AppData\Local\Temporary Projects\NetduinoSound\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\Standard\AppData\Local\Temporary Projects\NetduinoSound\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\Standard\AppData\Local\Temporary Projects\NetduinoSound\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\Standard\AppData\Local\Temporary Projects\NetduinoSound\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\Users\Standard\AppData\Local\Temporary Projects\NetduinoSound\obj\Debug\NetduinoSound.exe
+C:\Users\Standard\AppData\Local\Temporary Projects\NetduinoSound\obj\Debug\NetduinoSound.pdb
+C:\Users\Standard\documents\visual studio 2010\Projects\NetduinoSound\NetduinoSound\bin\Debug\le\NetduinoSound.exe
+C:\Users\Standard\documents\visual studio 2010\Projects\NetduinoSound\NetduinoSound\bin\Debug\be\NetduinoSound.exe
+C:\Users\Standard\documents\visual studio 2010\Projects\NetduinoSound\NetduinoSound\bin\Debug\le\NetduinoSound.pdb
+C:\Users\Standard\documents\visual studio 2010\Projects\NetduinoSound\NetduinoSound\bin\Debug\be\NetduinoSound.pdb
+C:\Users\Standard\documents\visual studio 2010\Projects\NetduinoSound\NetduinoSound\bin\Debug\NetduinoSound.exe
+C:\Users\Standard\documents\visual studio 2010\Projects\NetduinoSound\NetduinoSound\bin\Debug\NetduinoSound.pdb
+C:\Users\Standard\documents\visual studio 2010\Projects\NetduinoSound\NetduinoSound\bin\Debug\le\NetduinoSound.pe
+C:\Users\Standard\documents\visual studio 2010\Projects\NetduinoSound\NetduinoSound\bin\Debug\le\NetduinoSound.pdbx
+C:\Users\Standard\documents\visual studio 2010\Projects\NetduinoSound\NetduinoSound\bin\Debug\be\NetduinoSound.pe
+C:\Users\Standard\documents\visual studio 2010\Projects\NetduinoSound\NetduinoSound\bin\Debug\be\NetduinoSound.pdbx
+C:\Users\Standard\documents\visual studio 2010\Projects\NetduinoSound\NetduinoSound\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Standard\documents\visual studio 2010\Projects\NetduinoSound\NetduinoSound\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Standard\documents\visual studio 2010\Projects\NetduinoSound\NetduinoSound\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Standard\documents\visual studio 2010\Projects\NetduinoSound\NetduinoSound\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Standard\documents\visual studio 2010\Projects\NetduinoSound\NetduinoSound\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Standard\documents\visual studio 2010\Projects\NetduinoSound\NetduinoSound\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Standard\documents\visual studio 2010\Projects\NetduinoSound\NetduinoSound\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Standard\documents\visual studio 2010\Projects\NetduinoSound\NetduinoSound\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Standard\documents\visual studio 2010\Projects\NetduinoSound\NetduinoSound\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\Standard\documents\visual studio 2010\Projects\NetduinoSound\NetduinoSound\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\Standard\documents\visual studio 2010\Projects\NetduinoSound\NetduinoSound\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\Standard\documents\visual studio 2010\Projects\NetduinoSound\NetduinoSound\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\Users\Standard\documents\visual studio 2010\Projects\NetduinoSound\NetduinoSound\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Standard\documents\visual studio 2010\Projects\NetduinoSound\NetduinoSound\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Standard\documents\visual studio 2010\Projects\NetduinoSound\NetduinoSound\obj\Debug\be\NetduinoSound.pe
+C:\Users\Standard\documents\visual studio 2010\Projects\NetduinoSound\NetduinoSound\obj\Debug\be\NetduinoSound.pdbx
+C:\Users\Standard\documents\visual studio 2010\Projects\NetduinoSound\NetduinoSound\obj\Debug\le\NetduinoSound.pe
+C:\Users\Standard\documents\visual studio 2010\Projects\NetduinoSound\NetduinoSound\obj\Debug\le\NetduinoSound.pdbx
+C:\Users\Standard\documents\visual studio 2010\Projects\NetduinoSound\NetduinoSound\obj\Debug\NetduinoSound.exe
+C:\Users\Standard\documents\visual studio 2010\Projects\NetduinoSound\NetduinoSound\obj\Debug\NetduinoSound.pdb
