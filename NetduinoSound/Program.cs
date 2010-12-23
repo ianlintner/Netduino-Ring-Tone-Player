@@ -15,15 +15,31 @@ namespace NetduinoSound
         static PWM Speaker = new PWM(Pins.GPIO_PIN_D5);
         static Song CurrentSong;
         static InterruptPort Button = new InterruptPort(Pins.ONBOARD_SW1, false, ResistorModes.Disabled, InterruptModes.InterruptEdgeBoth);
-
+        static Queue SongQueue = new Queue();
         public static void Main()
         {
             // write your code here
             Button.OnInterrupt += new NativeEventHandler(ButtonPushed);
+           
+
             while (true)
             {
-                CurrentSong = Playlist.TetrisA();
-                Play();
+             
+                if(SongQueue.Count < 1) 
+                {
+                    SongQueue = Playlist.GetQueue();
+                }
+   
+                if (IsPlay)
+                {
+                    CurrentSong = (Song)SongQueue.Dequeue();
+                    Play();
+                    Thread.Sleep(2000);
+                }
+                else
+                {
+                    Thread.Sleep(100);
+                }
             }
         }
 
