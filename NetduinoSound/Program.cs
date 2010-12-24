@@ -18,18 +18,20 @@ namespace NetduinoSound
         static Queue SongQueue = new Queue();
         public static void Main()
         {
-            // write your code here
+            //Set interuppt
             Button.OnInterrupt += new NativeEventHandler(ButtonPushed);
            
-
+            //Looping
             while (true)
             {
              
+                //Reload the Queue -- Not exactly efficient but it's just for fun
                 if(SongQueue.Count < 1) 
                 {
                     SongQueue = Playlist.GetQueue();
                 }
    
+                //Check to see what stat our play variable is at based on switch press
                 if (IsPlay)
                 {
                     CurrentSong = (Song)SongQueue.Dequeue();
@@ -43,15 +45,16 @@ namespace NetduinoSound
             }
         }
 
+        //Function to play notes from song class -- our work horse
         public static void Play()
         {
-          
-
+         
+            //loop through each notation object in the arraylist
             foreach (Notation myNotation in CurrentSong.Notations)
             {
                 if (IsPlay)
                 {
-
+                    //see earlier tutorial on playing on notes on netduino using a piezo
                     if (myNotation.Note != 0)
                     {
                         Speaker.SetPulse(myNotation.Period, myNotation.Period / 2);
@@ -69,6 +72,7 @@ namespace NetduinoSound
             }
         }
 
+        //Changes IsPlay state on button press
         public static void ButtonPushed(uint data1, uint data2, DateTime time)
         {
             Microsoft.SPOT.Debug.Print(data2.ToString());
@@ -83,12 +87,6 @@ namespace NetduinoSound
             }
 
         }
-
-
-
-
-
-
 
     }
 
